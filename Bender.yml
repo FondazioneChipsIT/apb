@@ -24,6 +24,7 @@ sources:
   - src/apb_regs.sv
   - src/apb_cdc.sv
   - src/apb_demux.sv
+  - src/deprecated/apb_bus_intf.sv
 
   - target: simulation
     files:
